@@ -1,5 +1,7 @@
 
-
+.nav-item {
+    color: black;
+}
 
 
 
@@ -39,7 +41,7 @@
 }
 
 .slider-btn .btn{
-    background-color: green;
+    background-color: #94C11F;
     color: white;
     border-radius: 0;
     padding: 1.5rem 2rem;
@@ -54,3 +56,22 @@
     background-color: white;
 }
 
+.w2fu h3 {
+    bottom: 180px;
+    padding-left: 100px;
+    padding-top: 50px;
+    padding-right: 100px;
+    padding-bottom: 50px;
+    font-size: 60px;
+
+}
+
+.col-4 {
+   
+   max-width: 100%;
+   height: auto;
+}
+
+.col-6 h4 {
+    font-size: 30px;
+}
